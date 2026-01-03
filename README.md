@@ -25,4 +25,4 @@ This project analyzes bike sales data sourced from Kaggle to identify customer d
 - Interactive dashboard design
 
 ## Preview
-![Bike Sales Dashboard](assets/dashboard-preview.png)
+![Bike Sales Dashboard](assets/Screenshoot2025-08-12222637)
