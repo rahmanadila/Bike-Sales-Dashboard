@@ -1,3 +1,7 @@
+This repository is part of a sales analytics project.
+Related dashboard:
+- Supermarket Sales Dashboard: https://github.com/username/xxx
+
 # Bike Sales Dashboard (Excel)
 
 ## Description
