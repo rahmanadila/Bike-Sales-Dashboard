@@ -1,6 +1,6 @@
 This repository is part of a sales analytics project.
 Related dashboard:
-- Supermarket Sales Dashboard: https://github.com/rahmanadila/
+- Supermarket Sales Dashboard: https://github.com/rahmanadila/Supermarket-Sales-Dashboard
 
 # Bike Sales Dashboard (Excel)
 
